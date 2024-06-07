@@ -1,0 +1,12 @@
+### modules
+node_modules/
+
+### dist
+dist/
+
+### .env
+.env
+
+
+### yarn.lock
+yarn.lock
